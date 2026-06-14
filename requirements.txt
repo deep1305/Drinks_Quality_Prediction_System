@@ -1,0 +1,12 @@
+pandas>=2.2.3
+numpy>=2.1.0
+scikit-learn>=1.6.0
+matplotlib>=3.9.0
+python-box>=7.0.0
+PyYAML
+tqdm
+ensure==1.0.2
+joblib
+types-PyYAML
+Flask
+Flask-Cors
